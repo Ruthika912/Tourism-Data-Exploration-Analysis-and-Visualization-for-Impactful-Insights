@@ -7,6 +7,7 @@ Tourism is a vital industry, contributing significantly to global GDP and foster
 This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to analyse tourist data. Using clustering and predictive modelling, the study identifies trends, segments destinations, and provides actionable insights for improved tourism planning. By employing algorithms such as K-Means for clustering and Principal Component Analysis(PCA) for predictive modelling, the project aims to revolutionize tourism management by offering sustainable, personalized, and efficient solutions.
 
 2. Significance of Tourism Analytics
+
 Tourism analytics helps stakeholders make data-driven decisions to optimize resources, improve traveller experiences, and promote sustainability. Key benefits include:
 
 • Resource Optimization: Grouping destinations based on shared characteristics to manage resources effectively.
